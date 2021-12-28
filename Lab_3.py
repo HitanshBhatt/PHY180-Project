@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+
+Author: Prof. Brain Wilson, PHY180, University of Toronto Engineering Science
+
+
 This program imports data from the file specified by the string filename
 The first line of the file is ignored (assuming it's the name of the variables)
 After that the data file needs to be formatted: 
